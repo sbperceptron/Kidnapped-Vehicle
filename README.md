@@ -64,4 +64,4 @@ We will land in the following page of the simulator. After hitting start the veh
 
 ![](https://github.com/sbperceptron/Kidnapped-Vehicle/blob/master/simulator_kidnapped_vehicle_setup.png)
 
-![]()
+![](https://github.com/sbperceptron/Kidnapped-Vehicle/blob/master/simulator_final_state.png)
