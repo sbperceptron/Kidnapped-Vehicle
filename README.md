@@ -55,3 +55,7 @@ Choose the resolution of the simulator window and you should be seeing the follo
 Simulator:
 
 ![](https://github.com/sbperceptron/Kidnapped-Vehicle/blob/master/Simulator.png)
+
+Go to Kidnapped Vehicle page of the simulator and hit select,
+
+![](https://github.com/sbperceptron/Kidnapped-Vehicle/blob/master/simulator_kidnapped_vehicle.png)
