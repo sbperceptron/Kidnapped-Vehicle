@@ -39,3 +39,17 @@ From the top directory of the project Car
 `./run.sh`
 
 (If runnning for first time use `chmod +x file.sh` to grant access to .sh files)
+
+After running `./run.sh` we can see
+
+`Listening to port 4567` message in the terminal
+
+### Starting udacity simulator
+
+in a new terminal navigate to the directory where we have the simulator extracted and run,
+
+`./term2_sim.x86_64`
+
+Choose the resolution of the simulator window and you should be seeing the following window
+
+[Simulator]()
