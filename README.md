@@ -59,3 +59,9 @@ Simulator:
 Go to Kidnapped Vehicle page of the simulator and hit select,
 
 ![](https://github.com/sbperceptron/Kidnapped-Vehicle/blob/master/simulator_kidnapped_vehicle.png)
+
+We will land in the following page of the simulator. After hitting start the vehicle starts moving, and the blue circle which the particle filter calculated position moves with the car. The simulator after running the simulation for a while will put up the results to screen
+
+![](https://github.com/sbperceptron/Kidnapped-Vehicle/blob/master/simulator_kidnapped_vehicle_setup.png)
+
+![]()
