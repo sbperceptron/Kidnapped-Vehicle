@@ -1,6 +1,17 @@
 # Kidnapped-Vehicle
 Using 2D Particle filter to localize the vehicle. To the particle filter algorithm we provide, map of the location, initial location estimate, and sensor and control data.
 
+## particle_filter.cpp and particle_filter.h are the main files
+Input to the algorithm:
+
+Located in data directory
+
+`map_data.txt` includes the position of landmarks on an arbitrary Cartesian coordinate System. Each row has three columns
+
+1. x position
+2. y position
+3. landmark id
+
 ## Setting up the project workspace
 ### setting up the term2 simulator
 
@@ -65,3 +76,7 @@ We will land in the following page of the simulator. After hitting start the veh
 ![](https://github.com/sbperceptron/Kidnapped-Vehicle/blob/master/simulator_kidnapped_vehicle_setup.png)
 
 ![](https://github.com/sbperceptron/Kidnapped-Vehicle/blob/master/simulator_final_state.png)
+
+Results:
+
+1. Accuracy: Particle filter is able to localize the vehicle `max_translation error` and `max_yaw_error` 
