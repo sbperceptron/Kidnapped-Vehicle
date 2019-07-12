@@ -52,4 +52,6 @@ in a new terminal navigate to the directory where we have the simulator extracte
 
 Choose the resolution of the simulator window and you should be seeing the following window
 
-[Simulator]()
+Simulator:
+
+![](https://github.com/sbperceptron/Kidnapped-Vehicle/blob/master/Simulator.png)
