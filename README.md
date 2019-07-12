@@ -37,3 +37,5 @@ From the top directory of the project Car
 `./build.sh`
 
 `./run.sh`
+
+(If runnning for first time use `chmod +x file.sh` to grant access to .sh files)
